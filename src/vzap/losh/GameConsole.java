@@ -12,6 +12,7 @@ public class GameConsole
 
 	public static void main (String args)
 	{
+		/*
 		playersPlaying = new Vector<Player>(); 
 		playersPlaying.addElement(p1);
 		playersPlaying.addElement(p2);
@@ -21,7 +22,7 @@ public class GameConsole
 		
 		//start the 
 		
-		
+	
 		try 
 		{
 			//create a new gameid , auto increment your gameID
@@ -58,6 +59,7 @@ public class GameConsole
 			}
 
 		}
+		*/
 	}
 
 }
